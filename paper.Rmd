@@ -1,0 +1,13 @@
+---
+title: On diapers and differential equations - the challenges of combining higher
+  education and parenthood
+author: "Gustav Lundberg"
+date: "September 10, 2018"
+output: html_document
+---
+
+# Introduction
+
+Higher education is traditionally pursued during the earlier twenties, in Sweden as well as internationally. Some students however, decide to do things in a slightly less common order and start a family before enrolling in university studies. In Sweden, the number if students receiving extra support the Swedish Board of Student Finance for having children amounts to around 80 000 persons, which should be considered a lower threshold since some students combine work and studies thus not being eligble for student loans.
+
+While these students may not struggle to get up in time for lectures or wonder if the pasta or the water goes first, the face other challenges in their daily lives. 

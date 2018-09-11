@@ -6,6 +6,9 @@ date: "September 10, 2018"
 output:
   pdf_document: default
   html_document: default
+documentclass: article
+classoption: a4paper
+bibliography: 732A60litterature.bib
 ---
 
 # Introduction
@@ -15,5 +18,8 @@ Higher education is traditionally pursued during the earlier twenties, in Sweden
 ## Background and previous studies
 In Sweden, the number if students receiving extra support the Swedish Board of Student Finance for having children amounts to around 80 000 persons, which should be considered a lower threshold since some students combine work and studies thus not being eligble for student loans. While these students may not struggle to get up in time for lectures or wonder if the pasta or the water goes first^[True story, question asked during general discussion in my first year at University], they face other challenges in their daily lives and may require different kinds of support from faculty as well as family to maximize the chances of persisting to the point of obtaining a degree.
 
+Dill and Henley [-@DillHenley_Stressors] studied how different types of events affected the percieved stress of traditional and non traditional students
 
 
+
+# References

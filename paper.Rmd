@@ -15,10 +15,24 @@ bibliography: 732A60litterature.bib
 
 Higher education is traditionally pursued during the earlier twenties, in Sweden as well as internationally. Some students however, decide to do things in a slightly less common order and start a family before enrolling in university studies. This paper will attempt to give an overview of the differences between traditional students and students combining parenthood and studies as well as discuss the necessity and benefits of attracting such students to higher education. 
 
-## Background and previous studies
+## Previous international studies
 In Sweden, the number if students receiving extra support the Swedish Board of Student Finance for having children amounts to around 80 000 persons, which should be considered a lower threshold since some students combine work and studies thus not being eligble for student loans. While these students may not struggle to get up in time for lectures or wonder if the pasta or the water goes first^[True story, question asked during general discussion in my first year at University], they face other challenges in their daily lives and may require different kinds of support from faculty as well as family to maximize the chances of persisting to the point of obtaining a degree.
 
-Dill and Henley [-@DillHenley_Stressors] studied how different types of events affected the percieved stress of traditional and non traditional students
+### Differences percieved by students
+Dill and Henley [-@DillHenley_Stressors] studied how different types of events affected the percieved stress of traditional and non-traditional US students, i.e. students with a break between high-school and college as well as having responsibilities apart from the studies such as parenthood or employment. The authors found several differences between the two groups. Amongst others, the non-traditional students felt less anxiety over not performing well enough and also enjoyed attending class to a greater extent than the traditional students, albeit attending class to a lesser degree than their traditional counterparts. It is speculated that this may be an indication being able to attain satisfaction from multiple roles and I would personally agree that there is a certain satisfaction to be had when one is able to pick the kids up earlier than planned from kindergarten after passing an exam.
+
+Dill and Henley went on to discuss the dissimilarities in the types of social networking between the groups, that tradition students spent more time on and were more affected by the interaction with their peers. The parents' expectations to show results were also reported to be a greater source of stress for the tradional than the non-traditional students, something that is not seen as surprising as the parents of the surveyed students would normally be the ones paying for the education. These findings could be seen as further proof that the non traditional students have more sources from which they may gain satisfaction all the while having less time for each individual source.
+
+Although the above findings were documented some 20 years ago, later research summarized by Brinhapt and Eady [-@BrinhauptEady_Attitudes] in their article on faculty members' attitudes largely seem to agree with Dill and Henley. 
+
+### Differences perceived by teachers
+Brinhaupt and Eady's research [-@BrinhauptEady_Attitudes] takes a look at the opposite side of things and survey how teachers and staff act towards non-traditional students and specifically how these interactions differed from interactions with traditional students, ie students below the age of 25. It was found that teachers generally appreciate the mix of student ages and perceive few, if any,  negative effects of having older students in class. An interesting note is that the adult learners were seen as more grade conscious by the teachers. This goes somewhat against the findings of Dill and Henley [-@DillHenley_Stressors] that non-traditional students were less stressed by performance expectations, but can also be interpreted as supporting the non-traditional students ability to gather positives from multiple sources.
+
+The teachers surveyed by Brinhaupt and Eady had generally not made any special arrangements for their older students, nor felt any need to do so. Those teachers who had made arrangements reported a more positive attitude to older students and also a greater interest in learning more on how these students function. On a less positive note it should be mentioned that special arrangements could include adaptations geared towards capitalizing on the special experience that older students may posess, thus potentially missing out on adding value to all students. Avoiding classroom adaptions may also be the results of not wanting to risk discrimination on any part of the student body. It should also be stressed that the definitions of non-traditional students differ between the two studies mentioned so far.
+
+### The institutions' role in assuring student success
+Mark Fincher [-@Fincher_Retention] widenes the net and discuss how the universities as a whole can work for the benefit of older age students.
+
 
 
 
